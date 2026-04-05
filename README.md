@@ -36,6 +36,9 @@ To perform genome assembly using HiFi and Hi-C data in Galaxy.
 * Hifiasm
 * gfastats / QUAST
 
+  FASTA file is large (>25MB), so not uploaded here.
+It can be accessed from Galaxy history.
+
  Screenshots
 
 ![WhatsApp Image 2026-04-03 at 10 57 36 PM](https://github.com/user-attachments/assets/fe7c087e-6bd1-4c9d-8125-6c66ab803a3e)
